@@ -37,5 +37,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<!-- 🐍 Snake commit animation -->
+![Snake animation](https://github.com/Jamili-Martins/Jamili-Martins/blob/output/github-contribution-grid-snake.svg)
 
